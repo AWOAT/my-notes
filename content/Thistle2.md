@@ -8,29 +8,7 @@ status: Deceased
 hunting_floor: "[[Infestation]]"
 aliases:
 ---
-
-
-
-
-
-
-
-
-> | Property | Value |
-> |----------|-------|
-> | Name | <!-- IQ: =this.factions -->[[content/gbm/Factions/Orcas.md\|Orcas]]<!-- /IQ --> |
-> | Age | <!-- IQ: =this.status -->Deceased<!-- /IQ --> |
-
-
-
-
-
-
-
-
-
-
-> [!info]- Thistle from Five Thickets
+> [!info]- Overview
 > ![|250](https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg)
 > [Artist link](https://x.com/PluviumG/status/1779990159607644199)
 > 
