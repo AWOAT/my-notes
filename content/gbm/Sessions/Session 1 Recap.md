@@ -32,7 +32,7 @@ Mercedes talked with an old lady whose friend died the other day. It was hard fo
 
 Adaigo saw a flock of metallic birds. She tried to chase them to learn more, but they weren’t provoked by her (why not?) and she lost them.
 
-Elinalaise kept her ear to the ground and heard a story. A young man was walking home at night, but he fell and scraped his knee. A woman stepped out from the shadows and quickly helped dress the wound. This was [[Thistle from Five Thickets|Thistle]], a magical girl and member of the [[Orcas]]. She had to quickly dress the wound before it attracted the flock.
+Elinalaise kept her ear to the ground and heard a story. A young man was walking home at night, but he fell and scraped his knee. A woman stepped out from the shadows and quickly helped dress the wound. This was [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]], a magical girl and member of the [[Orcas]]. She had to quickly dress the wound before it attracted the flock.
 
 
 
@@ -48,7 +48,7 @@ Right away, Mercedes transcended into Iris of the Moon, and Adaigo transcended i
 
 Elinalaise did not transcend immediately. She analyzed the flock and looked for a leader, whom she identified when enough birds were killed. Only then did she transform into Claire Grimoire and go for the kill. The leader died, leaving a piece of the whale, and the flock dispersed. 
 
-However, the flight took a while, and the [[Orcas]] arrived to contest ownership of the whale flesh. Claire had set a trap, and [[Thistle from Five Thickets|Thistle]] was quickly blown away.
+However, the flight took a while, and the [[Orcas]] arrived to contest ownership of the whale flesh. Claire had set a trap, and [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]] was quickly blown away.
 
 Outnumbered, [[Ruby, the Empress|Ruby]] still wanted to pick a fight with Claire, but [[Techo]] talked her down. They left after Iris and Reverb finished defusing the situation.
 

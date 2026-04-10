@@ -19,7 +19,7 @@ Adaigo worked out. She had been feeling a little self-conscious, and she pushed 
 ## Downtime
 
 #### Elinalaise (Claire)
-Elinalaise talks with [[Thistle from Five Thickets|Thistle]], saying that they went to the party to steal the sword in order to use it. This is a lie, but she’s just trying to throw the Orcas off.
+Elinalaise talks with [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]], saying that they went to the party to steal the sword in order to use it. This is a lie, but she’s just trying to throw the Orcas off.
 
 
 #### Mercedes (Iris)

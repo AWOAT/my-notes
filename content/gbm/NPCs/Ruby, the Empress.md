@@ -39,7 +39,7 @@ Able to turn things or people into gold. Frequently uses molten gold to make a s
 
 ## Magical Life
 
-Official leader of the [[Orcas]]. Very headstrong; trusted [[Techo]]'s opinions but felt a little undermined. Saw [[Thistle from Five Thickets|Thistle]] as too soft.
+Official leader of the [[Orcas]]. Very headstrong; trusted [[Techo]]'s opinions but felt a little undermined. Saw [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]] as too soft.
 
 Hates the PCs, but especially [[Claire Grimoire|Claire]]. Does anything she can to screw her over, and she has no qualms about other magical girls getting hurt in the crossfire.
 

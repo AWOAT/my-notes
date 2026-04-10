@@ -51,7 +51,7 @@ This really made Adaigo angry, so she went at Elinalaise again, saying that her 
 
 ## Mission 
 
-Everybody gets a notification. There has been some sort of disaster in a museum on a lower floor, and multiple people have died. Some of them are only presumed dead, and one of these is [[Thistle from Five Thickets|Thistle]]. After a bit of deliberation, the group hurries down.
+Everybody gets a notification. There has been some sort of disaster in a museum on a lower floor, and multiple people have died. Some of them are only presumed dead, and one of these is [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]]. After a bit of deliberation, the group hurries down.
 
 They met [[Techo|Tiffany Mahlon]], author of that article on Vance Thomas. She was vaguely magical. There were some other reporters there too, but the cops were preventing people from entering. The crew ended up sneaking in.
 

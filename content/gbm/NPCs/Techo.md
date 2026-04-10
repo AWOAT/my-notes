@@ -43,7 +43,7 @@ Techo views trustworthiness as the highest of all virtues.
 
 Techo was a member of the [[Orcas]], trusted implicitly by them, although she understood that [[Ruby, the Empress|Ruby]] was often too heavy-handed. Techo's say had the most sway.
 
-She cared deeply for [[Thistle from Five Thickets|Thistle]] and was quite devastated by her death. She was also quite fond of [[Iris of the Moon|Iris]], who was the first to discover her mundane identity.
+She cared deeply for [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]] and was quite devastated by her death. She was also quite fond of [[Iris of the Moon|Iris]], who was the first to discover her mundane identity.
 
 The magical girl [[Naroma, the South Star|Naroma]] is her sister.
 
@@ -77,7 +77,7 @@ Split a meal with [[Iris of the Moon|Iris]] on a rooftop, and had a long convers
 
 Shows up as her mundane self at the museum, gets recognized by [[Iris of the Moon|Iris]].
 
-Reappears later to take [[Thistle from Five Thickets|Thistle]]'s body.
+Reappears later to take [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]]'s body.
 
 
 ### Session 4.5

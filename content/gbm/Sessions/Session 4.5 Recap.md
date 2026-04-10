@@ -7,7 +7,7 @@ With knife in hand, you turn to face the fallen magical girl that has been chasi
 
 Song: [K-03 Seraphim Jazz](https://open.spotify.com/track/2GHRsdc1SVv5O5q609C8Mb?si=6aecc8ae62a24e5d)
 
-There is a flash, and suddenly you are [[Thistle from Five Thickets|Thistle]], back in the museum. Everything looks… fuzzy, muted. The fight has not been going well. Your glaive is close to splintering down the middle, and you are crumpled up on the floor, bleeding profusely from your stomach. [[Mistress of the Dark Flame Blade|Missy]] is on her way but will be too late. Across the room, Rail dives at Lady Aricia, but she swats him out of the air. The Beast lunges directly at Rail, jaws gaping, going for the kill. And though you have little strength, there is always more to give.
+There is a flash, and suddenly you are [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]], back in the museum. Everything looks… fuzzy, muted. The fight has not been going well. Your glaive is close to splintering down the middle, and you are crumpled up on the floor, bleeding profusely from your stomach. [[Mistress of the Dark Flame Blade|Missy]] is on her way but will be too late. Across the room, Rail dives at Lady Aricia, but she swats him out of the air. The Beast lunges directly at Rail, jaws gaping, going for the kill. And though you have little strength, there is always more to give.
 
 “...swap.”
 
@@ -44,7 +44,7 @@ Cat’s Eye of the Hurricane clears her throat. “We have a lot to get through 
 
 Sparrows in the Steel Sky stands up from their chair and exits the room. After a few moments, they return with the newcomer. Your heart skips a beat as she walks in. This is true for most members of the Cosmic Court. After all, she is beautiful. She is wearing a long dress, made from the rarest flowers and stitched together by a fairy’s hand. The thorny crown on her head complements her perfectly serene expression. But your heart skips a beat for a different reason.
 
-“Creatures of the court,” Sparrows in the Steel Sky announces, “I would like to present our newest member, [[Thistle from Five Thickets]].” Thistle curtsies, and you wake up.
+“Creatures of the court,” Sparrows in the Steel Sky announces, “I would like to present our newest member, [[content/gbm/NPCs/Thistle from Five Thickets]].” Thistle curtsies, and you wake up.
 
 --
 

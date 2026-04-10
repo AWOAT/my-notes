@@ -75,7 +75,7 @@ Seen by [[Claire Grimoire|Claire]]. They also see her sister in the Harpoon.
 
 ### Session 4
 
-Kills [[Thistle from Five Thickets|Thistle]] and begins to harvest her blighted heart.
+Kills [[content/gbm/NPCs/Thistle from Five Thickets|Thistle]] and begins to harvest her blighted heart.
 
 Thistle's head had a blighted heart due to a spell that Aricia cast. The [[Harpoon]]'s goal is to revive the whale by reducing the number of blighted hearts. This happens when either aliens or magical girls are killed, but this spell is needed to make them harvestable from magical girls.
 
