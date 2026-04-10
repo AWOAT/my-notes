@@ -7,7 +7,6 @@ factions:
 status: Deceased
 hunting_floor: "[[Infestation]]"
 aliases:
-  - Thistle
 ---
 
 
