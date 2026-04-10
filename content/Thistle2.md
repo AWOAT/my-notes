@@ -15,17 +15,6 @@ aliases:
 
 
 
-<!-- IQ: =embed(this.portrait) -->![[assets/Thistle_portrait.png|Thistle_portrait.png]]<!-- /IQ -->
-
-
-
-
-
-
-
-
-
-
 
 > | Property | Value |
 > |----------|-------|
@@ -41,36 +30,19 @@ aliases:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 > [!info]- Thistle from Five Thickets
-> ![150](https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg)
->
-> >  Status|`=this.status`
-> > ---|---|
-> > Faction(s)|`=this.factions`|
-> > Hunting Floor|`=this.hunting_floor`|
-> > Abilities|Position swap|
-> > Weapons|Insect glaive|
-> > Mundane Name|Heather Mysie|
-> > Age|35|
-
-```dataview
-TABLE factions
-FROM #NPC
-```
+> ![|250](https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg)
+> [Artist link](https://x.com/PluviumG/status/1779990159607644199)
+> 
+> True Name|Thistle from Five Thickets|
+> ---|---|
+> Status|<!-- IQ: =this.status -->Deceased<!-- /IQ -->
+> Faction(s)|<!-- IQ: =this.factions -->[[content/gbm/Factions/Orcas.md\|Orcas]]<!-- /IQ -->|
+> Hunting Floor|<!-- IQ: =this.hunting_floor -->[[content/gbm/Floors/Infestation.md\|Infestation]]<!-- /IQ -->|
+> Abilities|Position swap|
+> Weapons|Insect glaive|
+> Mundane Name|Heather Mysie|
+> Age|35|
 
 
 
