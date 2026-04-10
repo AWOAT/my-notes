@@ -1,0 +1,6 @@
+---
+tags:
+  - Faction
+aliases:
+  - Dojo
+---

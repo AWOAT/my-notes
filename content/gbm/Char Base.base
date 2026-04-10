@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.tags.containsAny("PC", "NPC")
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: DESC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 206
+  - type: cards
+    name: View
