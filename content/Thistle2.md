@@ -6,18 +6,8 @@ status: Deceased
 hunting_floor: "[[Infestation]]"
 aliases:
 ---
-![|350](https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg)
-[Artist link](https://x.com/PluviumG/status/1779990159607644199)
-
-testing
-
 <img src="https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg" width="350">
-html one
-
-
-
-
-
+[Artist link](https://x.com/PluviumG/status/1779990159607644199)
 
 True Name|Thistle from Five Thickets|
 ---|---|
