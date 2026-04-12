@@ -7,6 +7,8 @@ hunting_floor: "[[Infestation]]"
 aliases:
 ---
 <img src="https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg" width="350">
+
+
 [Artist link](https://x.com/PluviumG/status/1779990159607644199)
 
 True Name|Thistle from Five Thickets|
