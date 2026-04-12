@@ -1,39 +1,30 @@
 ---
 tags:
   - NPC
-portrait: "[[Thistle_portrait.png]]"
-factions:
-  - "[[Orcas]]"
+faction: "[[Knighthawks]]"
 status: Deceased
 hunting_floor: "[[Infestation]]"
 aliases:
 ---
-> [!info]- Overview
-> ![|250](https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg)
-> [Artist link](https://x.com/PluviumG/status/1779990159607644199)
-> 
-> True Name|Thistle from Five Thickets|
-> ---|---|
-> Status|<!-- IQ: =this.status -->Deceased<!-- /IQ -->
-> Faction(s)|<!-- IQ: =this.factions -->[[content/gbm/Factions/Orcas.md\|Orcas]]<!-- /IQ -->|
-> Hunting Floor|<!-- IQ: =this.hunting_floor -->[[content/gbm/Floors/Infestation.md\|Infestation]]<!-- /IQ -->|
-> Abilities|Position swap|
-> Weapons|Insect glaive|
-> Mundane Name|Heather Mysie|
-> Age|35|
+![|350](https://pbs.twimg.com/media/GLPLcVRbEAAnXRt?format=jpg)
+[Artist link](https://x.com/PluviumG/status/1779990159607644199)
 
 
 
-
-
-
-
+True Name|Thistle from Five Thickets|
+---|---|
+Status|<!-- IQ: =this.status -->Deceased<!-- /IQ -->
+Faction|<!-- IQ: =choice(this.faction=none,"none, hunts on "+this.hunting_floor,this.faction) -->[[content/gbm/Factions/Knighthawks.md\|Knighthawks]]<!-- /IQ -->|
+Abilities|Position swap|
+Weapons|Insect glaive|
+Mundane Name|Heather Mysie|
+Age|35|
 
 
 
 ## Description
 
-Thistle is very earthy. She has vibrant hair, into a single braid with ivy woven in. She grows petal wings, which she can use to glide or flap once with, after an insect glaive launch. She wears a flower crown made from extinct species. Thorny clothes. 
+Thistle is very earthy. She has vibrant hair, arranged in a single braid with ivy woven in. She grows petal wings, which she can use to glide or flap once with, after an insect glaive launch. She wears a flower crown made from extinct species. Thorny clothes. 
 
 Could switch places with Rail, her woodpecker, as both of them were willing to die for each other. She uses the Insect Glaive.
 
@@ -114,7 +105,7 @@ Appears in the [[Cosmic Court]].
 
 
 
-
+%%
 
 ## Season 2 Actions 
 
@@ -154,6 +145,7 @@ Appears in the [[Cosmic Court]].
 
 
 
+%%
 
 
 
@@ -163,8 +155,7 @@ Appears in the [[Cosmic Court]].
 
 
 
-
-
+%%
 ## Seals
 
 | Seal      |                             |
@@ -175,10 +166,6 @@ Appears in the [[Cosmic Court]].
 | **Fire**  | I will sacrifice my family. |
 
 
-## Notes
-
-
-
-
+%%
 
 
