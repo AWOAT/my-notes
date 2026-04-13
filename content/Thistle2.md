@@ -1,4 +1,6 @@
 ---
+title: Thistle from Five Thickets
+draft: false
 tags:
   - NPC
 faction: "[[Knighthawks]]"
@@ -19,6 +21,9 @@ Abilities|Position swap|
 Weapons|Insect glaive|
 Mundane Name|Heather Mysie|
 Age|35|
+
+
+I also want to link to [[testbed]] even though it's a draft.
 
 
 
