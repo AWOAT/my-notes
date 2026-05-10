@@ -1,5 +1,6 @@
 ---
 title: Thistle from Five Thickets
+mundane_name:
 draft: false
 tags:
   - NPC
@@ -24,6 +25,8 @@ Age|35|
 
 
 I also want to link to [[testbed]] even though it's a draft.
+
+Remembering.
 
 
 
